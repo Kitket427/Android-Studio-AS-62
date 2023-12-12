@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/play_audio_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Воспроизвести аудио" />
+
+    <Button
+        android:id="@+id/pause_audio_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Пауза аудио" />
+
+    <Button
+        android:id="@+id/stop_audio_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Остановить аудио" />
+
+    <Button
+        android:id="@+id/play_video_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Воспроизвести видео" />
+
+    <Button
+        android:id="@+id/pause_video_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Пауза видео" />
+
+    <Button
+
+        android:id="@+id/stop_video_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Остановить видео" />
+
+    <Button
+        android:id="@+id/take_photo_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Показать фото" />
+
+    <ImageView
+        android:id="@+id/photo_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop" />
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
