@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pastaIngredients">Недавно вышло обновление, позволяющее
+        оптимизировать огромное количество полигонов.
+    </string>
+    <string name="pastaDesc">Cook your pasta until al dente
+    /nSaute garlic in olive oil until fragrant
+    /nAdd cream cheese, pasta cooking water</string>
+    <string name="maggiIngredients">Вышла новость о разработке 2 части</string>
+    <string name="maggiDesc">Add one and half cup of water</string>
+    <string name="cakeIngredients">Студия Epic Games планирует закрытие своей студии</string>
+    <string name="cakeDesc">Add one and half cup of water</string>
+    <string name="pancakeIngredients">Вышел крупный патч с огромным количеством снаряжения
+    и возможностью повышать уровень игрока</string>
+    <string name="pancakeDesc">Add one and half cup of water</string>
+    <string name="pizzaIngredients">MaggiNoodles</string>
+    <string name="pizzaDesc">Add one and half cup of water</string>
+    <string name="burgerIngredients">Игра не успела выйти, а уже стала довольно популярной</string>
+    <string name="burgerDesc">MaggiNoodles</string>
+    <string name="time">time</string>
+</resources>

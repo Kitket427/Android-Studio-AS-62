@@ -1,0 +1,13 @@
+<resources>
+    <string name="info_text">MobileProject</string>
+    <string name="app_name">Dota 2</string>
+    <string name="game">Game</string>
+    <string name="list">List</string>
+    <string name="mini_shop">MiniShop</string>
+    <string name="my_notes">MyNotes</string>
+    <string name="file_downloader">FileDownloader</string>
+    <string name="title_activity_game_activiy">GameActiviy</string>
+
+    <string name="button_restart">Restart</string>
+    <string name="button_exit">Exit</string>
+</resources>
